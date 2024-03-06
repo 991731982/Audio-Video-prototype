@@ -1,0 +1,76 @@
+创建的报告: 
+	2024/2/20	14:36:20
+
+项目名: final-backup2.aep
+
+将源文件收集到: 
+	D:\immsemester2\AV\Final Project
+
+收集的源文件: 全部
+
+收集的合成: 
+	ip-intoAe2
+	ip-intoAe3
+	ip-extra
+	maple
+	phone
+	maple3
+	mouse
+	mouse
+	mouse-compose
+	mouse
+	mosaic_scan
+	mouse
+	bg
+	progress bar
+	click pou up
+	logo@3x
+	logo@3x 2
+	logo
+	
+收集的文件数: 12
+
+收集的文件大小: 20.5 MB
+
+收集的源文件: 
+	D:\immsemester2\AV\1x\3x\3x\logo@3x.png
+	D:\immsemester2\AV\1x\3x\logo@3x.png
+	D:\immsemester2\AV\1x\mouse.png
+	D:\immsemester2\AV\1x\robot.png
+	D:\immsemester2\AV\UX\Ux\(素材)\logo.png
+	D:\immsemester2\web\groupWork\ip\bg.ai
+	D:\immsemester2\web\groupWork\ip\ip-extra.ai
+	D:\immsemester2\web\groupWork\ip\ip-intoAe2.ai
+	D:\immsemester2\web\groupWork\ip\maple.ai
+	D:\immsemester2\web\groupWork\ip\maple3.ai
+	D:\immsemester2\web\groupWork\ip\phone.ai
+	D:\immsemester2\web\groupWork\ip\S2.ai
+	
+缺少的项数: 1
+
+渲染增效工具:
+	经典 3D
+	
+使用的效果: 8
+
+效果: CC Glass
+	
+效果: Mocha AE
+	
+效果: 径向阴影
+	
+效果: 马赛克
+	
+效果: 填充
+	
+效果: 湍流置换
+	
+效果: 置换图
+	
+效果: 最小/最大
+	
+
+图层: 文本图层
+	外部依存关系: 
+		字体系列:“Berlin Sans FB Demi”，字体样式:“Bold”
+
